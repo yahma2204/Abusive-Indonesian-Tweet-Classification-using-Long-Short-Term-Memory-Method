@@ -1,0 +1,1 @@
+# Abusive-Indonesian-Word-Classification-using-Long-Short-Term-Memory-Methode
