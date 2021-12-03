@@ -6,4 +6,4 @@ dataset that i use is from kaggle.com, the link is https://www.kaggle.com/ilhamf
 
 i decided to do different training with many epochs and data splitting ratio variables to get the best hyperparameter for each method. For the dataset that i used, some conclusions that i got are :
 
-the best performances that i got are when training with a splitting ratio of 60:40 and 10 epochs. The value of accuracy, precision, recall, and F1-Score values are 0.8814 or 88.14%.  
+the best performances that i got are when training with a splitting ratio of 60:40 and 10 epochs. The value of accuracy, precision, recall, and F1-Score values are 0.9104 or 91.04%.  
